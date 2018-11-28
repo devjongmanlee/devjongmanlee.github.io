@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## JongMan LEE
 
-You can use the [editor on GitHub](https://github.com/devjongmanlee/devjongmanlee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Suprema Engineer(Bio recognition company/Algorithm/Application/FW)
+Master in Image Processing.
+Major in Computer science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
